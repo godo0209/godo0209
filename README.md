@@ -1,5 +1,5 @@
 <div align="center">
-  <img stype="height:300px; width:100%; object-fit:cover" src="https://https://github.com/godo0209/Godofredo/cover.png"  />
+  <img stype="height:300px; width:100%; object-fit:cover" src="https://github.com/godo0209/Godofredo/blob/main/cover.png"  />
 </div>
 
 ###
