@@ -26,6 +26,7 @@
 
 <br clear="both">
 
+<div width="100%" align="center">
 <table width="100%">
   <tr>
     <th align="center">Full Stack Developer</th>
@@ -36,25 +37,26 @@
   <td width="33%">
     <div align="left">
       <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-      <img width="12" />
+      <img width="10" />
       <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-      <img width="12" />
+      <img width="10" />
       <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />      
+      <img width="10" />
+      <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />     
+      <img width="10" />
       <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
     </div>
   </td>
   <td width="33%">
     <div align="left">
       <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-      <img width="12" />
+      <img width="10" />
       <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-      <img width="12" />
+      <img width="10" />
       <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-      <img width="12" />
+      <img width="10" />
       <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-      <img width="12" />
+      <img width="10" />
       <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
     </div>
     
@@ -62,17 +64,18 @@
   <td width="33%">
     <div>
       <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
-      <img width="12" />
+      <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="30" alt="maya logo"  />
-      <img width="12" />
+      <img width="10" />
       <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-      <img width="12" />
+      <img width="10" />
       <img src="https://skillicons.dev/icons?i=unreal" height="30" alt="unrealengine logo"  />
-      <img width="12" />
+      <img width="10" />
       <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
     </div>
   </td>
 </table>
+</div>
 
 ###
 
