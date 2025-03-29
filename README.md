@@ -6,9 +6,9 @@
 
 <br clear="both">
 
-<p align="left">Hi there! My name is Godo and I just finished my studies at University of Alicante in Multimedia Engineering. Right now I'm studying a master in Artificial Intelligence at International Business School (Eip)</p>
+<p align="left">Hi there! My name is Godo and I just finished my studies at University of Alicante in Multimedia Engineering. Here I will be uploading proyects I like to do like videogames, what I think are usefuls apps and some proyects I do for fun.</p>
 
-<p align="left">In my profile you can see some of the software I have created in my years as a university student and hopefully I will be uploading new cool programs about AI now.</p>
+<p align="left">Right now you can see some of the software I have created in my years as a university student and hopefully I will be uploading new cool things.</p>
 
 <br clear="both">
 
@@ -16,13 +16,31 @@
   <a href="https://discordapp.com/users/godo0209" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:gfptra0209@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/godofredo-folgado/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
+  <a href="mailto:gfptra0209@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
 </div>
+<div align="center">
+  <a href="https://discordapp.com/users/godo0209" target="_blank" style="margin:1em;">
+    godo0209
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discordapp.com/users/godo0209" target="_blank">
+    godofredo-folgado
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gfptra0209@gmail.com" target="_blank">
+  gfptra0209
+  </a>
+</div>
+
 
 <br clear="both">
 
