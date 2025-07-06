@@ -14,17 +14,17 @@
 
 <div align="center">
   <a href="https://discordapp.com/users/godo0209" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" alt="discord logo"  />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;
   <a href="https://www.linkedin.com/in/godofredo-folgado/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" alt="linkedin logo"  />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;
   <a href="mailto:gfptra0209@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" alt="gmail logo"  />
   </a>
 </div>
 <div align="center">
@@ -54,42 +54,42 @@
 
   <td width="33%">
     <div align="left">
-      <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+      <img src="https://skillicons.dev/icons?i=react"  alt="react logo"  />
       <img width="10" />
-      <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+      <img src="https://skillicons.dev/icons?i=js"  alt="javascript logo"  />
       <img width="10" />
-      <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+      <img src="https://skillicons.dev/icons?i=ts"  alt="typescript logo"  />
       <img width="10" />
-      <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />     
+      <img src="https://skillicons.dev/icons?i=dotnet"  alt="dot-net logo"  />     
       <img width="10" />
-      <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+      <img src="https://skillicons.dev/icons?i=nodejs"  alt="nodejs logo"  />
     </div>
   </td>
   <td width="33%">
     <div align="left">
-      <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+      <img src="https://skillicons.dev/icons?i=java"  alt="java logo"  />
       <img width="10" />
-      <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+      <img src="https://skillicons.dev/icons?i=c"  alt="c logo"  />
       <img width="10" />
-      <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+      <img src="https://skillicons.dev/icons?i=cpp"  alt="cplusplus logo"  />
       <img width="10" />
-      <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+      <img src="https://skillicons.dev/icons?i=cs"  alt="csharp logo"  />
       <img width="10" />
-      <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+      <img src="https://skillicons.dev/icons?i=py"  alt="python logo"  />
     </div>
     
   </td>
   <td width="33%">
     <div>
-      <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
+      <img src="https://skillicons.dev/icons?i=blender"  alt="blender logo"  />
       <img width="10" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="30" alt="maya logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" width="48" alt="maya logo"  />
       <img width="10" />
-      <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+      <img src="https://skillicons.dev/icons?i=ps"  alt="adobephotoshop logo"  />
       <img width="10" />
-      <img src="https://skillicons.dev/icons?i=unreal" height="30" alt="unrealengine logo"  />
+      <img src="https://skillicons.dev/icons?i=unreal"  alt="unrealengine logo"  />
       <img width="10" />
-      <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
+      <img src="https://skillicons.dev/icons?i=unity"  alt="unity logo"  />
     </div>
   </td>
 </table>
