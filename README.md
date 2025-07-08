@@ -32,7 +32,7 @@
     godo0209
   </a>
   &nbsp;&nbsp;
-  <a href="https://discordapp.com/users/godo0209" target="_blank">
+  <a href="https://www.linkedin.com/in/godofredo-folgado/" target="_blank">
     godofredo-folgado
   </a>
   &nbsp;&nbsp;
